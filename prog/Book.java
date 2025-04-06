@@ -1,5 +1,3 @@
-package prog;
-
 public class Book extends Item implements PriceableWithVAT6{
 
     private final String author;

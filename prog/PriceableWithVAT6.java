@@ -1,5 +1,3 @@
-package prog;
-
 public interface PriceableWithVAT6 {
 
     default double getVAT(){

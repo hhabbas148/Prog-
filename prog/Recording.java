@@ -1,5 +1,3 @@
-package prog;
-
 public abstract class Recording extends Item implements PriceableWithVAT25 {
 
     private final String artist;

@@ -1,6 +1,4 @@
-package prog;
-
-public abstract class LongPlay extends Recording{
+public class LongPlay extends Recording{
     protected LongPlay(String name, String artist, int year, int condition, double price) {
         super(name, artist, year, condition, price);
     }

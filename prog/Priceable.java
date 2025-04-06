@@ -1,5 +1,3 @@
-package prog;
-
 public abstract interface Priceable {
 
     public abstract double getPrice();

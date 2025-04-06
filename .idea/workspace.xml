@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96218c25-3840-46e1-854d-2dafd8a7679a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/LongPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/Priceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/PriceableWithVAT25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/PriceableWithVAT6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog/Recording.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Prog-.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/CompactDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/CompactDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/LongPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/LongPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/Priceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Priceable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/PriceableWithVAT25.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/PriceableWithVAT25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/PriceableWithVAT6.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/PriceableWithVAT6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/Recording.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Recording.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +50,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Hayhay",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hayz1\Documents\GitHub\Prog-\prog" />
+      <recent name="C:\Users\hayz1\Documents\GitHub\Prog-\out\production\Prog-" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prog.Main" />
       <module name="Prog" />
@@ -87,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

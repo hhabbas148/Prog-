@@ -1,5 +1,3 @@
-package prog;
-
 public abstract class Item implements Priceable {
 
     private final String name;
