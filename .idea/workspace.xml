@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96218c25-3840-46e1-854d-2dafd8a7679a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/CompactDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/CompactDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Item.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/LongPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/LongPlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/Priceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Priceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/PriceableWithVAT25.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/PriceableWithVAT25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/PriceableWithVAT6.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/PriceableWithVAT6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/Recording.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Recording.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +40,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Hayhay",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Hayhay&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hayz1\Documents\GitHub\Prog-\prog" />
@@ -78,19 +74,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Prog" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Prog" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

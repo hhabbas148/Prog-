@@ -1,8 +1,8 @@
 import java.util.*;
 public  class Order {
 
-    private long orderNumber;
-    private static long counter = 1;
+    private static long counter;
+    private long orderNumber = 1;
     private  List<Item> items;
 
     public Order(Item... items) {
@@ -11,23 +11,24 @@ public  class Order {
     }
 
     public String getReceipt(){
-        String orderNR = "Receipt for order #" + orderNumber + "\n-----------\n";
-        String sak = "";
+        String order = "Receipt for order #" + orderNumber + "\n-----------\n";
         for (Item item : items)
         {
-            sak += item.toString();
+            order += item.toString();
+
         }
-        return orderNR;
+        orderNumber++;
+        return order;
     }
 
-    public double getTotatValuePlusVAT()
+    public double getTotalValuePlusVAT()
     {
-         double total = 0;
-         for (Item item : items)
-         {
-             total += item.getPrice() + (item.getPrice()*item.getVAT());
-         }
-         return total;
+        double total = 0;
+        for (Item item : items)
+        {
+            total += item.getPrice() + (item.getPrice()*item.getVAT());
+        }
+        return total;
     }
 
     public double getTotalValue()
