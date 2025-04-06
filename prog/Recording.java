@@ -30,12 +30,7 @@ public abstract class Recording extends Item implements PriceableWithVAT25 {
         } else {
             newPrice = price * (condition * 0.1);
         }
-        return Math.max(10.0, (newPrice));
-    }
-
-    @Override
-    public double getVAT() {
-        return 0.25;
+        return Math.max(10.0, newPrice);
     }
 
     @Override

@@ -10,7 +10,8 @@ public class Book extends Item implements PriceableWithVAT6{
         this.price = price;
         this.bound = bound;
     }
-@Override
+
+    @Override
     public double getPrice()
     {
         if (bound) {
@@ -22,11 +23,8 @@ public class Book extends Item implements PriceableWithVAT6{
     @Override
     public String toString()
     {
-        return getType() + ": " + "name= " + getName() + ", author= " + author +", bound=" + bound + ", price=" + getPrice() + ", price+vat=" + getPriceWithVAT();
+        return "Book: " + "name= " + getName() + ", author= " + author +", bound=" + bound + ", price=" + getPrice() + ", price+vat=" + getPriceWithVAT();
     }
 
-    public String getType(){
-        return "Book";
-    }
 
 }
