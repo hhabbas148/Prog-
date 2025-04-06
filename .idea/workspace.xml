@@ -7,15 +7,9 @@
     <list default="true" id="96218c25-3840-46e1-854d-2dafd8a7679a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/CompactDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/CompactDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/LongPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/LongPlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/Priceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Priceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/PriceableWithVAT25.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/PriceableWithVAT25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/PriceableWithVAT6.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/PriceableWithVAT6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog/Recording.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/Recording.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Hayhay",
+    "git-widget-placeholder": "main",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"

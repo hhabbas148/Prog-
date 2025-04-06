@@ -20,7 +20,7 @@ public  class Order {
         return orderNR;
     }
 
-    public double getTotatValuePlusVAT()
+    public double getTotalValuePlusVAT()
     {
          double total = 0;
          for (Item item : items)

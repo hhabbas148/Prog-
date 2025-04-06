@@ -10,11 +10,6 @@ public class Book extends Item implements PriceableWithVAT6{
         this.price = price;
         this.bound = bound;
     }
-
-    @Override
-    public double getVAT() {
-        return 0;
-    }
 @Override
     public double getPrice()
     {
