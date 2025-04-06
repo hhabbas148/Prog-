@@ -1,8 +1,10 @@
-public class Item {
+package prog;
+
+public abstract class Item implements Priceable {
 
     private final String name;
 
-    public Item(String name) {
+    protected Item(String name) {
         this.name = name;
     }
 
